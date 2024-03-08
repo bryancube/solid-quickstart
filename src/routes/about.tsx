@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Clicker!</h1>
       This is everything! funny.
       abcdef
-      <a href=https://github.com/bryancube/solid-quickstart/tree/main>Github</a>
+      
     </main>
   );
 }
