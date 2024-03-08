@@ -3,6 +3,10 @@ import { HttpStatusCode } from "solid-start/server";
 
 export default function NotFound() {
   return (
+    <head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2407917196575337"
+     crossorigin="anonymous"></script>
+    </head>
     <main>
       <Title>Not Found</Title>
       <HttpStatusCode code={404} />
