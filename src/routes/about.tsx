@@ -6,14 +6,9 @@ export default function Home() {
     <main>
       <Title>About Us</Title>
       <h1>Clicker!</h1>
-      this is everything!
-      <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
-        </a>{" "}
-        to learn how to build SolidStart apps.
-      </p>
+      This is everything! funny.
+      abcdef
+      <a href=https://github.com/bryancube/solid-quickstart/tree/main>Github</a>
     </main>
   );
 }
